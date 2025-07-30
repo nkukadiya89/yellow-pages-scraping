@@ -1,0 +1,851 @@
+﻿Restaurants Name,Address,Phone,Rating,Review Count
+El Gourmet Express Inc,"820 Church St,Toronto,ONM4W 2M9",416-628-3202,N/A,0
+THE SAJ WRAPS,"975 Bloor st W,Toronto,ONM6H 1L7Get directions",437-529-3085,N/A,0
+Cangurhu,"115 Morland Cres,Aurora,ONL4G 7Z1Get directions",813-550-0550,4,"
+(1)
+"
+Bardi's Steak House,"56 York Street,Toronto,ONM5J 1S8Get directions",647-849-3738,4,"
+(15)
+"
+Mezza Notte Trattoria,"3169 Dufferin St,North York,ONM6A 2S9Get directions",416-222-2888,4.5,"
+(11)
+"
+Kalyvia Restaurant,"420 Danforth Ave,Toronto,ONM4K 1P3Get directions",416-463-3333,4.5,"
+(13)
+"
+Dim Sum King,"421 Dundas St W,Toronto,ONM5T 2W4Get directions",647-360-4006,4.5,"
+(2)
+"
+Bardi's Steak House,"56 York Street,Toronto,ONM5J 1S8Get directions",647-849-3738,4,"
+(15)
+"
+Kingyo Izakaya,"51 Winchester St,Toronto,ONM4X 1A8Get directions",647-748-2121,1,"
+(1)
+"
+Taverna Mercatto,"120 Bremner,Toronto,ONM5J 3A6Get directions",416-368-9000,5,"
+(2)
+"
+Woods Restaurant,"47 Colborne St,Toronto,ONM5E 1P8Get directions",416-214-9918,5,"
+(1)
+"
+Halibut House,"103-2151 St Clair Ave W,Toronto,ONM6N 1K5Get directions",416-901-7997,5,"
+(1)
+"
+By The Way,"400 Bloor St W,Toronto,ONM5S 1X5Get directions",416-967-4295,4,"
+(3)
+"
+Via Norte Restaurant,"938 College St,Toronto,ONM6H 1A4Get directions",647-348-1116,4,"
+(4)
+"
+Rose And Sons,"176 Dupont St,Toronto,ONM5R 2E6Get directions",647-748-3287,5,"
+(3)
+"
+Carens Rosedale,"1118 Yonge St,Toronto,ONM4W 2L6Get directions",647-352-8111,N/A,0
+Soos,"94 Ossington Ave,Toronto,ONM6J 2Z4Get directions",416-901-7667,N/A,0
+Mr. Greek,"333 Bremner Blvd,Toronto,ONM5V 3V3Get directions",647-348-4801,N/A,0
+BnB,"123 Queen Street West,Toronto,ONM5H 2M9Get directions",416-361-6363,N/A,0
+Jabistro,"222 Richmond St W,Toronto,ONM5V 1V6Get directions",647-748-0222,4.5,"
+(5)
+"
+Barrio Coreano,"642 Bloor St W,Toronto,ONM6G 1K9Get directions",416-901-5188,2,"
+(1)
+"
+Arisu,"584 Bloor St W,Toronto,ONM6G 1K4Get directions",416-533-8104,4,"
+(3)
+"
+Budapest Restaurant,"2183 Danforth Ave,Toronto,ONM4C 1K4Get directions",647-347-5047,5,"
+(4)
+"
+The Kennedy Public House,"2199 Bloor St W,Toronto,ONM6S 1N2Get directions",416-769-3888,3,"
+(2)
+"
+The Burger Cellar,"3391 Yonge St,North York,ONM4N 2M8Get directions",647-345-0084,4,"
+(2)
+"
+Athens Restaurant,"707 Danforth,Toronto,ONM1K 1G4Get directions",416-465-4441,3.5,"
+(2)
+"
+Sip Wine Bar,"2 Broadway Ave,Toronto,ONM4P 1T4Get directions",647-748-7101,N/A,0
+Butchers Of Distinction,"738 Queen St E,Toronto,ONM4M 1H2Get directions",416-466-9191,N/A,0
+Brownes Bistro,"101-1251 Yonge St,Toronto,ONM4T 1W6Get directions",416-924-8132,4.5,"
+(3)
+"
+The Peasant Table,"782, Queen St E,Toronto,ONM4M 1H4Get directions",647-343-7022,1,"
+(2)
+"
+Farmhouse Tavern,"1627 Dupont St,Toronto,ONM6P 3S8Get directions",416-561-9114,N/A,0
+Junction Local,"3076 Dundas St W,Toronto,ONM6P 1Z8Get directions",416-766-3841,5,"
+(1)
+"
+Oretta,"633 King St W,Toronto,ONM5V 1M5Get directions",416-944-1932,1,"
+(1)
+"
+Cano Restaurant,"1108A St Clair Ave W,Toronto,ONM6E 1A7Get directions",416-901-3655,1,"
+(1)
+"
+Böehmer,"93 Ossington Ave,Toronto,ONM6J 2Z2Get directions",416-531-3800,N/A,0
+El Gourmet Express Inc,"820 Church St,Toronto,ONM4W 2M9",416-628-3202,N/A,0
+THE SAJ WRAPS,"975 Bloor st W,Toronto,ONM6H 1L7Get directions",437-529-3085,N/A,0
+Cangurhu,"115 Morland Cres,Aurora,ONL4G 7Z1Get directions",813-550-0550,4,"
+(1)
+"
+Bardi's Steak House,"56 York Street,Toronto,ONM5J 1S8Get directions",647-849-3738,4,"
+(15)
+"
+Mezza Notte Trattoria,"3169 Dufferin St,North York,ONM6A 2S9Get directions",416-222-2888,4.5,"
+(11)
+"
+Kalyvia Restaurant,"420 Danforth Ave,Toronto,ONM4K 1P3Get directions",416-463-3333,4.5,"
+(13)
+"
+Dim Sum King,"421 Dundas St W,Toronto,ONM5T 2W4Get directions",647-360-4006,4.5,"
+(2)
+"
+Bardi's Steak House,"56 York Street,Toronto,ONM5J 1S8Get directions",647-849-3738,4,"
+(15)
+"
+Kingyo Izakaya,"51 Winchester St,Toronto,ONM4X 1A8Get directions",647-748-2121,1,"
+(1)
+"
+Taverna Mercatto,"120 Bremner,Toronto,ONM5J 3A6Get directions",416-368-9000,5,"
+(2)
+"
+Woods Restaurant,"47 Colborne St,Toronto,ONM5E 1P8Get directions",416-214-9918,5,"
+(1)
+"
+Halibut House,"103-2151 St Clair Ave W,Toronto,ONM6N 1K5Get directions",416-901-7997,5,"
+(1)
+"
+By The Way,"400 Bloor St W,Toronto,ONM5S 1X5Get directions",416-967-4295,4,"
+(3)
+"
+Via Norte Restaurant,"938 College St,Toronto,ONM6H 1A4Get directions",647-348-1116,4,"
+(4)
+"
+Rose And Sons,"176 Dupont St,Toronto,ONM5R 2E6Get directions",647-748-3287,5,"
+(3)
+"
+Carens Rosedale,"1118 Yonge St,Toronto,ONM4W 2L6Get directions",647-352-8111,N/A,0
+Soos,"94 Ossington Ave,Toronto,ONM6J 2Z4Get directions",416-901-7667,N/A,0
+Mr. Greek,"333 Bremner Blvd,Toronto,ONM5V 3V3Get directions",647-348-4801,N/A,0
+BnB,"123 Queen Street West,Toronto,ONM5H 2M9Get directions",416-361-6363,N/A,0
+Jabistro,"222 Richmond St W,Toronto,ONM5V 1V6Get directions",647-748-0222,4.5,"
+(5)
+"
+Barrio Coreano,"642 Bloor St W,Toronto,ONM6G 1K9Get directions",416-901-5188,2,"
+(1)
+"
+Arisu,"584 Bloor St W,Toronto,ONM6G 1K4Get directions",416-533-8104,4,"
+(3)
+"
+Budapest Restaurant,"2183 Danforth Ave,Toronto,ONM4C 1K4Get directions",647-347-5047,5,"
+(4)
+"
+The Kennedy Public House,"2199 Bloor St W,Toronto,ONM6S 1N2Get directions",416-769-3888,3,"
+(2)
+"
+The Burger Cellar,"3391 Yonge St,North York,ONM4N 2M8Get directions",647-345-0084,4,"
+(2)
+"
+Athens Restaurant,"707 Danforth,Toronto,ONM1K 1G4Get directions",416-465-4441,3.5,"
+(2)
+"
+Sip Wine Bar,"2 Broadway Ave,Toronto,ONM4P 1T4Get directions",647-748-7101,N/A,0
+Butchers Of Distinction,"738 Queen St E,Toronto,ONM4M 1H2Get directions",416-466-9191,N/A,0
+Brownes Bistro,"101-1251 Yonge St,Toronto,ONM4T 1W6Get directions",416-924-8132,4.5,"
+(3)
+"
+The Peasant Table,"782, Queen St E,Toronto,ONM4M 1H4Get directions",647-343-7022,1,"
+(2)
+"
+Farmhouse Tavern,"1627 Dupont St,Toronto,ONM6P 3S8Get directions",416-561-9114,N/A,0
+Junction Local,"3076 Dundas St W,Toronto,ONM6P 1Z8Get directions",416-766-3841,5,"
+(1)
+"
+Oretta,"633 King St W,Toronto,ONM5V 1M5Get directions",416-944-1932,1,"
+(1)
+"
+Cano Restaurant,"1108A St Clair Ave W,Toronto,ONM6E 1A7Get directions",416-901-3655,1,"
+(1)
+"
+Böehmer,"93 Ossington Ave,Toronto,ONM6J 2Z2Get directions",416-531-3800,N/A,0
+Cangurhu,"115 Morland Cres,Aurora,ONL4G 7Z1Get directions",813-550-0550,4,"
+(1)
+"
+El Gourmet Express Inc,"820 Church St,Toronto,ONM4W 2M9",416-628-3202,N/A,0
+THE SAJ WRAPS,"975 Bloor st W,Toronto,ONM6H 1L7Get directions",437-529-3085,N/A,0
+Bardi's Steak House,"56 York Street,Toronto,ONM5J 1S8Get directions",647-849-3738,4,"
+(15)
+"
+Kalyvia Restaurant,"420 Danforth Ave,Toronto,ONM4K 1P3Get directions",416-463-3333,4.5,"
+(13)
+"
+Mezza Notte Trattoria,"3169 Dufferin St,North York,ONM6A 2S9Get directions",416-222-2888,4.5,"
+(11)
+"
+Dim Sum King,"421 Dundas St W,Toronto,ONM5T 2W4Get directions",647-360-4006,4.5,"
+(2)
+"
+Bardi's Steak House,"56 York Street,Toronto,ONM5J 1S8Get directions",647-849-3738,4,"
+(15)
+"
+Kingyo Izakaya,"51 Winchester St,Toronto,ONM4X 1A8Get directions",647-748-2121,1,"
+(1)
+"
+Taverna Mercatto,"120 Bremner,Toronto,ONM5J 3A6Get directions",416-368-9000,5,"
+(2)
+"
+Woods Restaurant,"47 Colborne St,Toronto,ONM5E 1P8Get directions",416-214-9918,5,"
+(1)
+"
+Halibut House,"103-2151 St Clair Ave W,Toronto,ONM6N 1K5Get directions",416-901-7997,5,"
+(1)
+"
+By The Way,"400 Bloor St W,Toronto,ONM5S 1X5Get directions",416-967-4295,4,"
+(3)
+"
+Via Norte Restaurant,"938 College St,Toronto,ONM6H 1A4Get directions",647-348-1116,4,"
+(4)
+"
+Rose And Sons,"176 Dupont St,Toronto,ONM5R 2E6Get directions",647-748-3287,5,"
+(3)
+"
+Carens Rosedale,"1118 Yonge St,Toronto,ONM4W 2L6Get directions",647-352-8111,N/A,0
+Soos,"94 Ossington Ave,Toronto,ONM6J 2Z4Get directions",416-901-7667,N/A,0
+Mr. Greek,"333 Bremner Blvd,Toronto,ONM5V 3V3Get directions",647-348-4801,N/A,0
+BnB,"123 Queen Street West,Toronto,ONM5H 2M9Get directions",416-361-6363,N/A,0
+Jabistro,"222 Richmond St W,Toronto,ONM5V 1V6Get directions",647-748-0222,4.5,"
+(5)
+"
+Barrio Coreano,"642 Bloor St W,Toronto,ONM6G 1K9Get directions",416-901-5188,2,"
+(1)
+"
+Arisu,"584 Bloor St W,Toronto,ONM6G 1K4Get directions",416-533-8104,4,"
+(3)
+"
+Budapest Restaurant,"2183 Danforth Ave,Toronto,ONM4C 1K4Get directions",647-347-5047,5,"
+(4)
+"
+The Kennedy Public House,"2199 Bloor St W,Toronto,ONM6S 1N2Get directions",416-769-3888,3,"
+(2)
+"
+The Burger Cellar,"3391 Yonge St,North York,ONM4N 2M8Get directions",647-345-0084,4,"
+(2)
+"
+Athens Restaurant,"707 Danforth,Toronto,ONM1K 1G4Get directions",416-465-4441,3.5,"
+(2)
+"
+Sip Wine Bar,"2 Broadway Ave,Toronto,ONM4P 1T4Get directions",647-748-7101,N/A,0
+Butchers Of Distinction,"738 Queen St E,Toronto,ONM4M 1H2Get directions",416-466-9191,N/A,0
+Brownes Bistro,"101-1251 Yonge St,Toronto,ONM4T 1W6Get directions",416-924-8132,4.5,"
+(3)
+"
+The Peasant Table,"782, Queen St E,Toronto,ONM4M 1H4Get directions",647-343-7022,1,"
+(2)
+"
+Farmhouse Tavern,"1627 Dupont St,Toronto,ONM6P 3S8Get directions",416-561-9114,N/A,0
+Junction Local,"3076 Dundas St W,Toronto,ONM6P 1Z8Get directions",416-766-3841,5,"
+(1)
+"
+Oretta,"633 King St W,Toronto,ONM5V 1M5Get directions",416-944-1932,1,"
+(1)
+"
+Cano Restaurant,"1108A St Clair Ave W,Toronto,ONM6E 1A7Get directions",416-901-3655,1,"
+(1)
+"
+Böehmer,"93 Ossington Ave,Toronto,ONM6J 2Z2Get directions",416-531-3800,N/A,0
+THE SAJ WRAPS,"975 Bloor st W,Toronto,ONM6H 1L7Get directions",437-529-3085,N/A,0
+Cangurhu,"115 Morland Cres,Aurora,ONL4G 7Z1Get directions",813-550-0550,4,"
+(1)
+"
+El Gourmet Express Inc,"820 Church St,Toronto,ONM4W 2M9",416-628-3202,N/A,0
+Bardi's Steak House,"56 York Street,Toronto,ONM5J 1S8Get directions",647-849-3738,4,"
+(15)
+"
+Mezza Notte Trattoria,"3169 Dufferin St,North York,ONM6A 2S9Get directions",416-222-2888,4.5,"
+(11)
+"
+Kalyvia Restaurant,"420 Danforth Ave,Toronto,ONM4K 1P3Get directions",416-463-3333,4.5,"
+(13)
+"
+Dim Sum King,"421 Dundas St W,Toronto,ONM5T 2W4Get directions",647-360-4006,4.5,"
+(2)
+"
+Bardi's Steak House,"56 York Street,Toronto,ONM5J 1S8Get directions",647-849-3738,4,"
+(15)
+"
+Kingyo Izakaya,"51 Winchester St,Toronto,ONM4X 1A8Get directions",647-748-2121,1,"
+(1)
+"
+Taverna Mercatto,"120 Bremner,Toronto,ONM5J 3A6Get directions",416-368-9000,5,"
+(2)
+"
+Woods Restaurant,"47 Colborne St,Toronto,ONM5E 1P8Get directions",416-214-9918,5,"
+(1)
+"
+Halibut House,"103-2151 St Clair Ave W,Toronto,ONM6N 1K5Get directions",416-901-7997,5,"
+(1)
+"
+By The Way,"400 Bloor St W,Toronto,ONM5S 1X5Get directions",416-967-4295,4,"
+(3)
+"
+Via Norte Restaurant,"938 College St,Toronto,ONM6H 1A4Get directions",647-348-1116,4,"
+(4)
+"
+Rose And Sons,"176 Dupont St,Toronto,ONM5R 2E6Get directions",647-748-3287,5,"
+(3)
+"
+Carens Rosedale,"1118 Yonge St,Toronto,ONM4W 2L6Get directions",647-352-8111,N/A,0
+Soos,"94 Ossington Ave,Toronto,ONM6J 2Z4Get directions",416-901-7667,N/A,0
+Mr. Greek,"333 Bremner Blvd,Toronto,ONM5V 3V3Get directions",647-348-4801,N/A,0
+BnB,"123 Queen Street West,Toronto,ONM5H 2M9Get directions",416-361-6363,N/A,0
+Jabistro,"222 Richmond St W,Toronto,ONM5V 1V6Get directions",647-748-0222,4.5,"
+(5)
+"
+Barrio Coreano,"642 Bloor St W,Toronto,ONM6G 1K9Get directions",416-901-5188,2,"
+(1)
+"
+Arisu,"584 Bloor St W,Toronto,ONM6G 1K4Get directions",416-533-8104,4,"
+(3)
+"
+Budapest Restaurant,"2183 Danforth Ave,Toronto,ONM4C 1K4Get directions",647-347-5047,5,"
+(4)
+"
+The Kennedy Public House,"2199 Bloor St W,Toronto,ONM6S 1N2Get directions",416-769-3888,3,"
+(2)
+"
+The Burger Cellar,"3391 Yonge St,North York,ONM4N 2M8Get directions",647-345-0084,4,"
+(2)
+"
+Athens Restaurant,"707 Danforth,Toronto,ONM1K 1G4Get directions",416-465-4441,3.5,"
+(2)
+"
+Sip Wine Bar,"2 Broadway Ave,Toronto,ONM4P 1T4Get directions",647-748-7101,N/A,0
+Butchers Of Distinction,"738 Queen St E,Toronto,ONM4M 1H2Get directions",416-466-9191,N/A,0
+Brownes Bistro,"101-1251 Yonge St,Toronto,ONM4T 1W6Get directions",416-924-8132,4.5,"
+(3)
+"
+The Peasant Table,"782, Queen St E,Toronto,ONM4M 1H4Get directions",647-343-7022,1,"
+(2)
+"
+Farmhouse Tavern,"1627 Dupont St,Toronto,ONM6P 3S8Get directions",416-561-9114,N/A,0
+Junction Local,"3076 Dundas St W,Toronto,ONM6P 1Z8Get directions",416-766-3841,5,"
+(1)
+"
+Oretta,"633 King St W,Toronto,ONM5V 1M5Get directions",416-944-1932,1,"
+(1)
+"
+Cano Restaurant,"1108A St Clair Ave W,Toronto,ONM6E 1A7Get directions",416-901-3655,1,"
+(1)
+"
+Böehmer,"93 Ossington Ave,Toronto,ONM6J 2Z2Get directions",416-531-3800,N/A,0
+THE SAJ WRAPS,"975 Bloor st W,Toronto,ONM6H 1L7Get directions",437-529-3085,N/A,0
+Cangurhu,"115 Morland Cres,Aurora,ONL4G 7Z1Get directions",813-550-0550,4,"
+(1)
+"
+El Gourmet Express Inc,"820 Church St,Toronto,ONM4W 2M9",416-628-3202,N/A,0
+Bardi's Steak House,"56 York Street,Toronto,ONM5J 1S8Get directions",647-849-3738,4,"
+(15)
+"
+Mezza Notte Trattoria,"3169 Dufferin St,North York,ONM6A 2S9Get directions",416-222-2888,4.5,"
+(11)
+"
+Kalyvia Restaurant,"420 Danforth Ave,Toronto,ONM4K 1P3Get directions",416-463-3333,4.5,"
+(13)
+"
+Dim Sum King,"421 Dundas St W,Toronto,ONM5T 2W4Get directions",647-360-4006,4.5,"
+(2)
+"
+Bardi's Steak House,"56 York Street,Toronto,ONM5J 1S8Get directions",647-849-3738,4,"
+(15)
+"
+Kingyo Izakaya,"51 Winchester St,Toronto,ONM4X 1A8Get directions",647-748-2121,1,"
+(1)
+"
+Taverna Mercatto,"120 Bremner,Toronto,ONM5J 3A6Get directions",416-368-9000,5,"
+(2)
+"
+Woods Restaurant,"47 Colborne St,Toronto,ONM5E 1P8Get directions",416-214-9918,5,"
+(1)
+"
+Halibut House,"103-2151 St Clair Ave W,Toronto,ONM6N 1K5Get directions",416-901-7997,5,"
+(1)
+"
+By The Way,"400 Bloor St W,Toronto,ONM5S 1X5Get directions",416-967-4295,4,"
+(3)
+"
+Via Norte Restaurant,"938 College St,Toronto,ONM6H 1A4Get directions",647-348-1116,4,"
+(4)
+"
+Rose And Sons,"176 Dupont St,Toronto,ONM5R 2E6Get directions",647-748-3287,5,"
+(3)
+"
+Carens Rosedale,"1118 Yonge St,Toronto,ONM4W 2L6Get directions",647-352-8111,N/A,0
+Soos,"94 Ossington Ave,Toronto,ONM6J 2Z4Get directions",416-901-7667,N/A,0
+Mr. Greek,"333 Bremner Blvd,Toronto,ONM5V 3V3Get directions",647-348-4801,N/A,0
+BnB,"123 Queen Street West,Toronto,ONM5H 2M9Get directions",416-361-6363,N/A,0
+Jabistro,"222 Richmond St W,Toronto,ONM5V 1V6Get directions",647-748-0222,4.5,"
+(5)
+"
+Barrio Coreano,"642 Bloor St W,Toronto,ONM6G 1K9Get directions",416-901-5188,2,"
+(1)
+"
+Arisu,"584 Bloor St W,Toronto,ONM6G 1K4Get directions",416-533-8104,4,"
+(3)
+"
+Budapest Restaurant,"2183 Danforth Ave,Toronto,ONM4C 1K4Get directions",647-347-5047,5,"
+(4)
+"
+The Kennedy Public House,"2199 Bloor St W,Toronto,ONM6S 1N2Get directions",416-769-3888,3,"
+(2)
+"
+The Burger Cellar,"3391 Yonge St,North York,ONM4N 2M8Get directions",647-345-0084,4,"
+(2)
+"
+Athens Restaurant,"707 Danforth,Toronto,ONM1K 1G4Get directions",416-465-4441,3.5,"
+(2)
+"
+Sip Wine Bar,"2 Broadway Ave,Toronto,ONM4P 1T4Get directions",647-748-7101,N/A,0
+Butchers Of Distinction,"738 Queen St E,Toronto,ONM4M 1H2Get directions",416-466-9191,N/A,0
+Brownes Bistro,"101-1251 Yonge St,Toronto,ONM4T 1W6Get directions",416-924-8132,4.5,"
+(3)
+"
+The Peasant Table,"782, Queen St E,Toronto,ONM4M 1H4Get directions",647-343-7022,1,"
+(2)
+"
+Farmhouse Tavern,"1627 Dupont St,Toronto,ONM6P 3S8Get directions",416-561-9114,N/A,0
+Junction Local,"3076 Dundas St W,Toronto,ONM6P 1Z8Get directions",416-766-3841,5,"
+(1)
+"
+Oretta,"633 King St W,Toronto,ONM5V 1M5Get directions",416-944-1932,1,"
+(1)
+"
+Cano Restaurant,"1108A St Clair Ave W,Toronto,ONM6E 1A7Get directions",416-901-3655,1,"
+(1)
+"
+Böehmer,"93 Ossington Ave,Toronto,ONM6J 2Z2Get directions",416-531-3800,N/A,0
+El Gourmet Express Inc,"820 Church St,Toronto,ONM4W 2M9",416-628-3202,N/A,0
+THE SAJ WRAPS,"975 Bloor st W,Toronto,ONM6H 1L7Get directions",437-529-3085,N/A,0
+Cangurhu,"115 Morland Cres,Aurora,ONL4G 7Z1Get directions",813-550-0550,4,"
+(1)
+"
+Bardi's Steak House,"56 York Street,Toronto,ONM5J 1S8Get directions",647-849-3738,4,"
+(15)
+"
+Kalyvia Restaurant,"420 Danforth Ave,Toronto,ONM4K 1P3Get directions",416-463-3333,4.5,"
+(13)
+"
+Mezza Notte Trattoria,"3169 Dufferin St,North York,ONM6A 2S9Get directions",416-222-2888,4.5,"
+(11)
+"
+Dim Sum King,"421 Dundas St W,Toronto,ONM5T 2W4Get directions",647-360-4006,4.5,"
+(2)
+"
+Bardi's Steak House,"56 York Street,Toronto,ONM5J 1S8Get directions",647-849-3738,4,"
+(15)
+"
+Kingyo Izakaya,"51 Winchester St,Toronto,ONM4X 1A8Get directions",647-748-2121,1,"
+(1)
+"
+Taverna Mercatto,"120 Bremner,Toronto,ONM5J 3A6Get directions",416-368-9000,5,"
+(2)
+"
+Woods Restaurant,"47 Colborne St,Toronto,ONM5E 1P8Get directions",416-214-9918,5,"
+(1)
+"
+Halibut House,"103-2151 St Clair Ave W,Toronto,ONM6N 1K5Get directions",416-901-7997,5,"
+(1)
+"
+By The Way,"400 Bloor St W,Toronto,ONM5S 1X5Get directions",416-967-4295,4,"
+(3)
+"
+Via Norte Restaurant,"938 College St,Toronto,ONM6H 1A4Get directions",647-348-1116,4,"
+(4)
+"
+Rose And Sons,"176 Dupont St,Toronto,ONM5R 2E6Get directions",647-748-3287,5,"
+(3)
+"
+Carens Rosedale,"1118 Yonge St,Toronto,ONM4W 2L6Get directions",647-352-8111,N/A,0
+Soos,"94 Ossington Ave,Toronto,ONM6J 2Z4Get directions",416-901-7667,N/A,0
+Mr. Greek,"333 Bremner Blvd,Toronto,ONM5V 3V3Get directions",647-348-4801,N/A,0
+BnB,"123 Queen Street West,Toronto,ONM5H 2M9Get directions",416-361-6363,N/A,0
+Jabistro,"222 Richmond St W,Toronto,ONM5V 1V6Get directions",647-748-0222,4.5,"
+(5)
+"
+Barrio Coreano,"642 Bloor St W,Toronto,ONM6G 1K9Get directions",416-901-5188,2,"
+(1)
+"
+Arisu,"584 Bloor St W,Toronto,ONM6G 1K4Get directions",416-533-8104,4,"
+(3)
+"
+Budapest Restaurant,"2183 Danforth Ave,Toronto,ONM4C 1K4Get directions",647-347-5047,5,"
+(4)
+"
+The Kennedy Public House,"2199 Bloor St W,Toronto,ONM6S 1N2Get directions",416-769-3888,3,"
+(2)
+"
+The Burger Cellar,"3391 Yonge St,North York,ONM4N 2M8Get directions",647-345-0084,4,"
+(2)
+"
+Athens Restaurant,"707 Danforth,Toronto,ONM1K 1G4Get directions",416-465-4441,3.5,"
+(2)
+"
+Sip Wine Bar,"2 Broadway Ave,Toronto,ONM4P 1T4Get directions",647-748-7101,N/A,0
+Butchers Of Distinction,"738 Queen St E,Toronto,ONM4M 1H2Get directions",416-466-9191,N/A,0
+Brownes Bistro,"101-1251 Yonge St,Toronto,ONM4T 1W6Get directions",416-924-8132,4.5,"
+(3)
+"
+The Peasant Table,"782, Queen St E,Toronto,ONM4M 1H4Get directions",647-343-7022,1,"
+(2)
+"
+Farmhouse Tavern,"1627 Dupont St,Toronto,ONM6P 3S8Get directions",416-561-9114,N/A,0
+Junction Local,"3076 Dundas St W,Toronto,ONM6P 1Z8Get directions",416-766-3841,5,"
+(1)
+"
+Oretta,"633 King St W,Toronto,ONM5V 1M5Get directions",416-944-1932,1,"
+(1)
+"
+Cano Restaurant,"1108A St Clair Ave W,Toronto,ONM6E 1A7Get directions",416-901-3655,1,"
+(1)
+"
+Böehmer,"93 Ossington Ave,Toronto,ONM6J 2Z2Get directions",416-531-3800,N/A,0
+El Gourmet Express Inc,"820 Church St,Toronto,ONM4W 2M9",416-628-3202,N/A,0
+THE SAJ WRAPS,"975 Bloor st W,Toronto,ONM6H 1L7Get directions",437-529-3085,N/A,0
+Cangurhu,"115 Morland Cres,Aurora,ONL4G 7Z1Get directions",813-550-0550,4,"
+(1)
+"
+Bardi's Steak House,"56 York Street,Toronto,ONM5J 1S8Get directions",647-849-3738,4,"
+(15)
+"
+Kalyvia Restaurant,"420 Danforth Ave,Toronto,ONM4K 1P3Get directions",416-463-3333,4.5,"
+(13)
+"
+Mezza Notte Trattoria,"3169 Dufferin St,North York,ONM6A 2S9Get directions",416-222-2888,4.5,"
+(11)
+"
+Dim Sum King,"421 Dundas St W,Toronto,ONM5T 2W4Get directions",647-360-4006,4.5,"
+(2)
+"
+Bardi's Steak House,"56 York Street,Toronto,ONM5J 1S8Get directions",647-849-3738,4,"
+(15)
+"
+Kingyo Izakaya,"51 Winchester St,Toronto,ONM4X 1A8Get directions",647-748-2121,1,"
+(1)
+"
+Taverna Mercatto,"120 Bremner,Toronto,ONM5J 3A6Get directions",416-368-9000,5,"
+(2)
+"
+Woods Restaurant,"47 Colborne St,Toronto,ONM5E 1P8Get directions",416-214-9918,5,"
+(1)
+"
+Halibut House,"103-2151 St Clair Ave W,Toronto,ONM6N 1K5Get directions",416-901-7997,5,"
+(1)
+"
+By The Way,"400 Bloor St W,Toronto,ONM5S 1X5Get directions",416-967-4295,4,"
+(3)
+"
+Via Norte Restaurant,"938 College St,Toronto,ONM6H 1A4Get directions",647-348-1116,4,"
+(4)
+"
+Rose And Sons,"176 Dupont St,Toronto,ONM5R 2E6Get directions",647-748-3287,5,"
+(3)
+"
+Carens Rosedale,"1118 Yonge St,Toronto,ONM4W 2L6Get directions",647-352-8111,N/A,0
+Soos,"94 Ossington Ave,Toronto,ONM6J 2Z4Get directions",416-901-7667,N/A,0
+Mr. Greek,"333 Bremner Blvd,Toronto,ONM5V 3V3Get directions",647-348-4801,N/A,0
+BnB,"123 Queen Street West,Toronto,ONM5H 2M9Get directions",416-361-6363,N/A,0
+Jabistro,"222 Richmond St W,Toronto,ONM5V 1V6Get directions",647-748-0222,4.5,"
+(5)
+"
+Barrio Coreano,"642 Bloor St W,Toronto,ONM6G 1K9Get directions",416-901-5188,2,"
+(1)
+"
+Arisu,"584 Bloor St W,Toronto,ONM6G 1K4Get directions",416-533-8104,4,"
+(3)
+"
+Budapest Restaurant,"2183 Danforth Ave,Toronto,ONM4C 1K4Get directions",647-347-5047,5,"
+(4)
+"
+The Kennedy Public House,"2199 Bloor St W,Toronto,ONM6S 1N2Get directions",416-769-3888,3,"
+(2)
+"
+The Burger Cellar,"3391 Yonge St,North York,ONM4N 2M8Get directions",647-345-0084,4,"
+(2)
+"
+Athens Restaurant,"707 Danforth,Toronto,ONM1K 1G4Get directions",416-465-4441,3.5,"
+(2)
+"
+Sip Wine Bar,"2 Broadway Ave,Toronto,ONM4P 1T4Get directions",647-748-7101,N/A,0
+Butchers Of Distinction,"738 Queen St E,Toronto,ONM4M 1H2Get directions",416-466-9191,N/A,0
+Brownes Bistro,"101-1251 Yonge St,Toronto,ONM4T 1W6Get directions",416-924-8132,4.5,"
+(3)
+"
+The Peasant Table,"782, Queen St E,Toronto,ONM4M 1H4Get directions",647-343-7022,1,"
+(2)
+"
+Farmhouse Tavern,"1627 Dupont St,Toronto,ONM6P 3S8Get directions",416-561-9114,N/A,0
+Junction Local,"3076 Dundas St W,Toronto,ONM6P 1Z8Get directions",416-766-3841,5,"
+(1)
+"
+Oretta,"633 King St W,Toronto,ONM5V 1M5Get directions",416-944-1932,1,"
+(1)
+"
+Cano Restaurant,"1108A St Clair Ave W,Toronto,ONM6E 1A7Get directions",416-901-3655,1,"
+(1)
+"
+Böehmer,"93 Ossington Ave,Toronto,ONM6J 2Z2Get directions",416-531-3800,N/A,0
+THE SAJ WRAPS,"975 Bloor st W,Toronto,ONM6H 1L7Get directions",437-529-3085,N/A,0
+Cangurhu,"115 Morland Cres,Aurora,ONL4G 7Z1Get directions",813-550-0550,4,"
+(1)
+"
+El Gourmet Express Inc,"820 Church St,Toronto,ONM4W 2M9",416-628-3202,N/A,0
+Bardi's Steak House,"56 York Street,Toronto,ONM5J 1S8Get directions",647-849-3738,4,"
+(15)
+"
+Mezza Notte Trattoria,"3169 Dufferin St,North York,ONM6A 2S9Get directions",416-222-2888,4.5,"
+(11)
+"
+Kalyvia Restaurant,"420 Danforth Ave,Toronto,ONM4K 1P3Get directions",416-463-3333,4.5,"
+(13)
+"
+Dim Sum King,"421 Dundas St W,Toronto,ONM5T 2W4Get directions",647-360-4006,4.5,"
+(2)
+"
+Bardi's Steak House,"56 York Street,Toronto,ONM5J 1S8Get directions",647-849-3738,4,"
+(15)
+"
+Kingyo Izakaya,"51 Winchester St,Toronto,ONM4X 1A8Get directions",647-748-2121,1,"
+(1)
+"
+Taverna Mercatto,"120 Bremner,Toronto,ONM5J 3A6Get directions",416-368-9000,5,"
+(2)
+"
+Woods Restaurant,"47 Colborne St,Toronto,ONM5E 1P8Get directions",416-214-9918,5,"
+(1)
+"
+Halibut House,"103-2151 St Clair Ave W,Toronto,ONM6N 1K5Get directions",416-901-7997,5,"
+(1)
+"
+By The Way,"400 Bloor St W,Toronto,ONM5S 1X5Get directions",416-967-4295,4,"
+(3)
+"
+Via Norte Restaurant,"938 College St,Toronto,ONM6H 1A4Get directions",647-348-1116,4,"
+(4)
+"
+Rose And Sons,"176 Dupont St,Toronto,ONM5R 2E6Get directions",647-748-3287,5,"
+(3)
+"
+Carens Rosedale,"1118 Yonge St,Toronto,ONM4W 2L6Get directions",647-352-8111,N/A,0
+Soos,"94 Ossington Ave,Toronto,ONM6J 2Z4Get directions",416-901-7667,N/A,0
+Mr. Greek,"333 Bremner Blvd,Toronto,ONM5V 3V3Get directions",647-348-4801,N/A,0
+BnB,"123 Queen Street West,Toronto,ONM5H 2M9Get directions",416-361-6363,N/A,0
+Jabistro,"222 Richmond St W,Toronto,ONM5V 1V6Get directions",647-748-0222,4.5,"
+(5)
+"
+Barrio Coreano,"642 Bloor St W,Toronto,ONM6G 1K9Get directions",416-901-5188,2,"
+(1)
+"
+Arisu,"584 Bloor St W,Toronto,ONM6G 1K4Get directions",416-533-8104,4,"
+(3)
+"
+Budapest Restaurant,"2183 Danforth Ave,Toronto,ONM4C 1K4Get directions",647-347-5047,5,"
+(4)
+"
+The Kennedy Public House,"2199 Bloor St W,Toronto,ONM6S 1N2Get directions",416-769-3888,3,"
+(2)
+"
+The Burger Cellar,"3391 Yonge St,North York,ONM4N 2M8Get directions",647-345-0084,4,"
+(2)
+"
+Athens Restaurant,"707 Danforth,Toronto,ONM1K 1G4Get directions",416-465-4441,3.5,"
+(2)
+"
+Sip Wine Bar,"2 Broadway Ave,Toronto,ONM4P 1T4Get directions",647-748-7101,N/A,0
+Butchers Of Distinction,"738 Queen St E,Toronto,ONM4M 1H2Get directions",416-466-9191,N/A,0
+Brownes Bistro,"101-1251 Yonge St,Toronto,ONM4T 1W6Get directions",416-924-8132,4.5,"
+(3)
+"
+The Peasant Table,"782, Queen St E,Toronto,ONM4M 1H4Get directions",647-343-7022,1,"
+(2)
+"
+Farmhouse Tavern,"1627 Dupont St,Toronto,ONM6P 3S8Get directions",416-561-9114,N/A,0
+Junction Local,"3076 Dundas St W,Toronto,ONM6P 1Z8Get directions",416-766-3841,5,"
+(1)
+"
+Oretta,"633 King St W,Toronto,ONM5V 1M5Get directions",416-944-1932,1,"
+(1)
+"
+Cano Restaurant,"1108A St Clair Ave W,Toronto,ONM6E 1A7Get directions",416-901-3655,1,"
+(1)
+"
+Böehmer,"93 Ossington Ave,Toronto,ONM6J 2Z2Get directions",416-531-3800,N/A,0
+El Gourmet Express Inc,"820 Church St,Toronto,ONM4W 2M9",416-628-3202,N/A,0
+THE SAJ WRAPS,"975 Bloor st W,Toronto,ONM6H 1L7Get directions",437-529-3085,N/A,0
+Cangurhu,"115 Morland Cres,Aurora,ONL4G 7Z1Get directions",813-550-0550,4,"
+(1)
+"
+Bardi's Steak House,"56 York Street,Toronto,ONM5J 1S8Get directions",647-849-3738,4,"
+(15)
+"
+Mezza Notte Trattoria,"3169 Dufferin St,North York,ONM6A 2S9Get directions",416-222-2888,4.5,"
+(11)
+"
+Kalyvia Restaurant,"420 Danforth Ave,Toronto,ONM4K 1P3Get directions",416-463-3333,4.5,"
+(13)
+"
+Dim Sum King,"421 Dundas St W,Toronto,ONM5T 2W4Get directions",647-360-4006,4.5,"
+(2)
+"
+Bardi's Steak House,"56 York Street,Toronto,ONM5J 1S8Get directions",647-849-3738,4,"
+(15)
+"
+Kingyo Izakaya,"51 Winchester St,Toronto,ONM4X 1A8Get directions",647-748-2121,1,"
+(1)
+"
+Taverna Mercatto,"120 Bremner,Toronto,ONM5J 3A6Get directions",416-368-9000,5,"
+(2)
+"
+Woods Restaurant,"47 Colborne St,Toronto,ONM5E 1P8Get directions",416-214-9918,5,"
+(1)
+"
+Halibut House,"103-2151 St Clair Ave W,Toronto,ONM6N 1K5Get directions",416-901-7997,5,"
+(1)
+"
+By The Way,"400 Bloor St W,Toronto,ONM5S 1X5Get directions",416-967-4295,4,"
+(3)
+"
+Via Norte Restaurant,"938 College St,Toronto,ONM6H 1A4Get directions",647-348-1116,4,"
+(4)
+"
+Rose And Sons,"176 Dupont St,Toronto,ONM5R 2E6Get directions",647-748-3287,5,"
+(3)
+"
+Carens Rosedale,"1118 Yonge St,Toronto,ONM4W 2L6Get directions",647-352-8111,N/A,0
+Soos,"94 Ossington Ave,Toronto,ONM6J 2Z4Get directions",416-901-7667,N/A,0
+Mr. Greek,"333 Bremner Blvd,Toronto,ONM5V 3V3Get directions",647-348-4801,N/A,0
+BnB,"123 Queen Street West,Toronto,ONM5H 2M9Get directions",416-361-6363,N/A,0
+Jabistro,"222 Richmond St W,Toronto,ONM5V 1V6Get directions",647-748-0222,4.5,"
+(5)
+"
+Barrio Coreano,"642 Bloor St W,Toronto,ONM6G 1K9Get directions",416-901-5188,2,"
+(1)
+"
+Arisu,"584 Bloor St W,Toronto,ONM6G 1K4Get directions",416-533-8104,4,"
+(3)
+"
+Budapest Restaurant,"2183 Danforth Ave,Toronto,ONM4C 1K4Get directions",647-347-5047,5,"
+(4)
+"
+The Kennedy Public House,"2199 Bloor St W,Toronto,ONM6S 1N2Get directions",416-769-3888,3,"
+(2)
+"
+The Burger Cellar,"3391 Yonge St,North York,ONM4N 2M8Get directions",647-345-0084,4,"
+(2)
+"
+Athens Restaurant,"707 Danforth,Toronto,ONM1K 1G4Get directions",416-465-4441,3.5,"
+(2)
+"
+Sip Wine Bar,"2 Broadway Ave,Toronto,ONM4P 1T4Get directions",647-748-7101,N/A,0
+Butchers Of Distinction,"738 Queen St E,Toronto,ONM4M 1H2Get directions",416-466-9191,N/A,0
+Brownes Bistro,"101-1251 Yonge St,Toronto,ONM4T 1W6Get directions",416-924-8132,4.5,"
+(3)
+"
+The Peasant Table,"782, Queen St E,Toronto,ONM4M 1H4Get directions",647-343-7022,1,"
+(2)
+"
+Farmhouse Tavern,"1627 Dupont St,Toronto,ONM6P 3S8Get directions",416-561-9114,N/A,0
+Junction Local,"3076 Dundas St W,Toronto,ONM6P 1Z8Get directions",416-766-3841,5,"
+(1)
+"
+Oretta,"633 King St W,Toronto,ONM5V 1M5Get directions",416-944-1932,1,"
+(1)
+"
+Cano Restaurant,"1108A St Clair Ave W,Toronto,ONM6E 1A7Get directions",416-901-3655,1,"
+(1)
+"
+Böehmer,"93 Ossington Ave,Toronto,ONM6J 2Z2Get directions",416-531-3800,N/A,0
+El Gourmet Express Inc,"820 Church St,Toronto,ONM4W 2M9",416-628-3202,N/A,0
+THE SAJ WRAPS,"975 Bloor st W,Toronto,ONM6H 1L7Get directions",437-529-3085,N/A,0
+Cangurhu,"115 Morland Cres,Aurora,ONL4G 7Z1Get directions",813-550-0550,4,"
+(1)
+"
+Bardi's Steak House,"56 York Street,Toronto,ONM5J 1S8Get directions",647-849-3738,4,"
+(15)
+"
+Kalyvia Restaurant,"420 Danforth Ave,Toronto,ONM4K 1P3Get directions",416-463-3333,4.5,"
+(13)
+"
+Mezza Notte Trattoria,"3169 Dufferin St,North York,ONM6A 2S9Get directions",416-222-2888,4.5,"
+(11)
+"
+Dim Sum King,"421 Dundas St W,Toronto,ONM5T 2W4Get directions",647-360-4006,4.5,"
+(2)
+"
+Bardi's Steak House,"56 York Street,Toronto,ONM5J 1S8Get directions",647-849-3738,4,"
+(15)
+"
+Kingyo Izakaya,"51 Winchester St,Toronto,ONM4X 1A8Get directions",647-748-2121,1,"
+(1)
+"
+Taverna Mercatto,"120 Bremner,Toronto,ONM5J 3A6Get directions",416-368-9000,5,"
+(2)
+"
+Woods Restaurant,"47 Colborne St,Toronto,ONM5E 1P8Get directions",416-214-9918,5,"
+(1)
+"
+Halibut House,"103-2151 St Clair Ave W,Toronto,ONM6N 1K5Get directions",416-901-7997,5,"
+(1)
+"
+By The Way,"400 Bloor St W,Toronto,ONM5S 1X5Get directions",416-967-4295,4,"
+(3)
+"
+Via Norte Restaurant,"938 College St,Toronto,ONM6H 1A4Get directions",647-348-1116,4,"
+(4)
+"
+Rose And Sons,"176 Dupont St,Toronto,ONM5R 2E6Get directions",647-748-3287,5,"
+(3)
+"
+Carens Rosedale,"1118 Yonge St,Toronto,ONM4W 2L6Get directions",647-352-8111,N/A,0
+Soos,"94 Ossington Ave,Toronto,ONM6J 2Z4Get directions",416-901-7667,N/A,0
+Mr. Greek,"333 Bremner Blvd,Toronto,ONM5V 3V3Get directions",647-348-4801,N/A,0
+BnB,"123 Queen Street West,Toronto,ONM5H 2M9Get directions",416-361-6363,N/A,0
+Jabistro,"222 Richmond St W,Toronto,ONM5V 1V6Get directions",647-748-0222,4.5,"
+(5)
+"
+Barrio Coreano,"642 Bloor St W,Toronto,ONM6G 1K9Get directions",416-901-5188,2,"
+(1)
+"
+Arisu,"584 Bloor St W,Toronto,ONM6G 1K4Get directions",416-533-8104,4,"
+(3)
+"
+Budapest Restaurant,"2183 Danforth Ave,Toronto,ONM4C 1K4Get directions",647-347-5047,5,"
+(4)
+"
+The Kennedy Public House,"2199 Bloor St W,Toronto,ONM6S 1N2Get directions",416-769-3888,3,"
+(2)
+"
+The Burger Cellar,"3391 Yonge St,North York,ONM4N 2M8Get directions",647-345-0084,4,"
+(2)
+"
+Athens Restaurant,"707 Danforth,Toronto,ONM1K 1G4Get directions",416-465-4441,3.5,"
+(2)
+"
+Sip Wine Bar,"2 Broadway Ave,Toronto,ONM4P 1T4Get directions",647-748-7101,N/A,0
+Butchers Of Distinction,"738 Queen St E,Toronto,ONM4M 1H2Get directions",416-466-9191,N/A,0
+Brownes Bistro,"101-1251 Yonge St,Toronto,ONM4T 1W6Get directions",416-924-8132,4.5,"
+(3)
+"
+The Peasant Table,"782, Queen St E,Toronto,ONM4M 1H4Get directions",647-343-7022,1,"
+(2)
+"
+Farmhouse Tavern,"1627 Dupont St,Toronto,ONM6P 3S8Get directions",416-561-9114,N/A,0
+Junction Local,"3076 Dundas St W,Toronto,ONM6P 1Z8Get directions",416-766-3841,5,"
+(1)
+"
+Oretta,"633 King St W,Toronto,ONM5V 1M5Get directions",416-944-1932,1,"
+(1)
+"
+Cano Restaurant,"1108A St Clair Ave W,Toronto,ONM6E 1A7Get directions",416-901-3655,1,"
+(1)
+"
+Böehmer,"93 Ossington Ave,Toronto,ONM6J 2Z2Get directions",416-531-3800,N/A,0
